@@ -1,0 +1,25 @@
+{
+  "name": "welcome_message",
+  "current_version": "1.1.0",
+  "versions": [
+    {
+      "version": "1.0.0",
+      "template": "Hello, {name}! Welcome to our platform.",
+      "variables": [
+        "name"
+      ],
+      "description": "Basic welcome message",
+      "created_at": "2025-01-01T16:48:02.424381"
+    },
+    {
+      "version": "1.1.0",
+      "template": "Hi, {name}! We're glad you're here. Start exploring {platform}!",
+      "variables": [
+        "name",
+        "platform"
+      ],
+      "description": "Enhanced welcome message",
+      "created_at": "2025-01-01T16:48:02.429468"
+    }
+  ]
+}
