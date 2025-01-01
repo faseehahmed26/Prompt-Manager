@@ -1,0 +1,23 @@
+
+#### `.gitignore`
+```plaintext
+# Byte-compiled files
+__pycache__/
+*.py[cod]
+
+# OS-specific files
+.DS_Store
+
+# Virtual environment
+venv/
+.env/
+
+# Test data
+test_prompts/
+
+# Logs
+*.log
+
+# Miscellaneous
+.idea/
+.vscode/
